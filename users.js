@@ -6,5 +6,5 @@ let User_Library =
         ["RuiChe", "ruichang55753309", "rchenche@elscomets.org"],
         ["JinWen", "Euphorichydra82", "jwu@elscomets.org"],
         ["JackXie", "", ""],
-        ["Sebastian", "", ""]
+        ["Sebastian", "Sebastian1#", "sebastiankhavari@gmail.com"]
     ];
