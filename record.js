@@ -9,12 +9,12 @@
 let Record_Database = new Array();
 
 Record_Database = [
-    ["Thu,Dec.15/2022",
+    ["Wed,Dec.14/2022",
         ["TonyKan", "50.763", "50.635", "DNF", "50.635"],
         ["ColinLonneman", "38.253", "41.730", "44.347", "38.253"],
         ["JinWen", "1:37.716", "1:41.893", "1:32.774", "1:32.774"]
     ],
-    ["Wed,Dec.14/2022",
+    ["Thu,Dec.15/2022",
         ["ColinLonneman", "52.620", "53.493", "48.655", "48.655"],
         ["TonyKan", "DNF", "47.029", "55.844", "47.129"],
         ["JackXie", "DNF", "N/A", "N/A", "N/A"],
