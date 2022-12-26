@@ -7,5 +7,5 @@ let Rank_Database = [
     [0, 38, 253, "Colin Lonneman", "Wed,Dec.14/2022"],
     [1, 32, 774, "JinWen Wu", "Wed,Dec.14/2022"],
     [1, 22, 125, "Sebastion", "Thu,Dec.15/2022"],
-    [0, 49, 816, "RuiChe", "Thu,Dec.15/2022"]
+    [0, 49, 816, "Rui Che", "Thu,Dec.15/2022"]
 ];
