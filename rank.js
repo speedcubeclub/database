@@ -8,6 +8,6 @@ let Rank_Database = [
     [0, 41, 916, "JinWen Wu", "Fri,Jan.20/2023"],
     [0, 48, 332, "Sebastion", "Wed,Jan.18/2023"],
     [0, 49, 816, "Rui Che", "Wed,Jan.18/2023"],
-    [0, 34, 597, "Ian Kong", "Fri,Jan.20/2023"],
+    [0, 19, 823, "Ian Kong", "Fri,Jan.20/2023"],
     [0, 56, 188, "Jack Xie", "Thur,Jan.19/2023"]
 ];

@@ -9,6 +9,9 @@
 let Record_Database = new Array();
 
 Record_Database = [
+    ["Thu,Feb.8/2023",
+        ["Ian Kong", "34.633", "19.823", "32.421", "19.823"]
+    ],
     ["Fri,Jan.20/2023",
         ["Ian Kong", "34.597", "45.567", "DNF", "34.597"],
         ["Jin Wen", "49.596", "41.916", "44.925", "41.916"]
